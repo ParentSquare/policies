@@ -1,52 +1,71 @@
-# ParentSquare Terms and Conditions
+# ParentSquare Terms of Use
 
-Please read these Terms and Conditions carefully before using the ParentSquare website (https://www.parentsquare.com). By accessing the ParentSquare website, you agree to accept, without limitation or qualification, all of these Terms and Conditions. If you do not accept these Terms and Conditions, please exit the ParentSquare website immediately.
+IMPORTANT: If you are under the age of 18, you must read these terms of use with a parent or adult guardian.
 
-##### Modification of Terms and Conditions
+Please read these terms of use carefully before using our services. This is a binding agreement between you and ParentSquare. By accessing or using our services in any manner, you agree to accept, without limitation or qualification, all of these terms of use.
 
-ParentSquare reserves the right at any time to change any of the terms and conditions contained herein or any information contained in the ParentSquare website, including but not limited to the charges associated with the use of the ParentSquare website. If the Terms and Conditions do change, we will do our best to tell you in advance by placing a notification on the ParentSquare website, or we might send you an email. In certain situations (for example, where a change to the Terms and Conditions is necessary to comply with legal requirements or when the change is due to an inaccuracy or typographical error), we may not be able to give you advance notice. Changes to the [Privacy Policy](https://www.parentsquare.com/about/privacy) will be provided in advance.
+If you do not wish to participate in the program, and also stop receiving ParentSquare notifications, please contact your School directly or contact us at [support@parentsquare.com](mailto:support@parentsquare.com).
 
-If you don’t like the new Terms and Conditions, you are free to reject them – unfortunately, that means you won’t be able to use the ParentSquare website anymore. If you use the ParentSquare website in any way after a change to the Terms and Conditions is effective, then please remember that means you agree to all of the Terms and Conditions.
+### Overview
 
-##### Modification of Website
+ParentSquare is a simple, collaborative platform for school-home communication that facilitates parental engagement in children’s education. ParentSquare is designed for whole-school adoption and collaborative use by principal, admins, teachers, staff, parent leaders and parents at preK-12 schools. Users can share messages about school logistics and student classroom learning along with pictures and files, volunteer requests and class supply lists, calendar and more.
 
-The information, software, products, and services included in or available through the ParentSquare website may include inaccuracies or typographical errors. Changes are periodically added to the information herein. ParentSquare and / or the schools using the ParentSquare website may make improvements and / or changes in the ParentSquare website at any time. Any such changes will appear on the individual pages of the ParentSquare website and / or on this screen. By using the ParentSquare website, you agree in advance to accept any such changes.
+### Modification of Terms of Use
 
-##### Use of Website
+Our legal policies may be modified as our services are updated. ParentSquare reserves the right at any time to change any of these terms of use contained herein or any information contained in our services, including but not limited to the charges associated with the use of our services. If these terms of use do change, we will alert you by posting a notice on our website and sending your School an email detailing the changes. In certain situations (for example, where a change to these terms of use is necessary to comply with legal requirements or when the change is due to an inaccuracy or typographical error), we may not be able to give you a notice.
 
-ParentSquare may, at any time and without advance notice or liability, terminate or restrict your access to all or any component of the ParentSquare website.
+### Disclosure
 
-##### Availability
+ParentSquare reserves the right at all times to disclose any information as necessary to satisfy any applicable law, regulation, legal process or governmental request. Questions or comments regarding our services and the information contained in our services should be directed to [support@parentsquare.com](mailto:support@parentsquare.com). Any communication or material transmitted to us via the ParentSquare website, app or e-mail is transmitted on a non-confidential basis.
 
-ParentSquare website is available worldwide to anyone with Internet access. However, ParentSquare website may not be continuously available due to maintenance or repairs or to computer problems or crashes, disruption in Internet service or other unforeseen circumstances.
+### Privacy
 
-##### Limitation of Liability
+Please read our [Privacy Policy](https://www.parentsquare.com/about/privacy), to understand how we collect, use, share and protect information.
 
-Neither ParentSquare nor any of the schools using the ParentSquare website or any of ParentSquare subsidiaries, divisions, affiliates, agents, representatives, or licensors shall be liable to you or anyone else for any loss or injury or any direct, indirect, incidental, consequential, special, punitive, or similar damages arising out of your access or use of, or your inability to access or use, the ParentSquare website or any materials, opinions, or recommendations of third parties on the ParentSquare website. All information, software, products, services and related graphics are provided "as is" without warranty or condition of any kind. ParentSquare and / or the schools using the ParentSquare website hereby disclaim all warranties and conditions with regard to this information, software, products, services and related graphics, including all implied warranties or conditions of merchantability, fitness for a particular purpose, title and non-infringement.
+### Modification of Services
 
-##### Links
+Our services may include inaccuracies or typographical errors that will be corrected. Changes are periodically added to the information herein. ParentSquare and / or your School may make improvements and / or changes in our services at any time. By using our services, you agree in advance to accept any such changes.
 
-ParentSquare does not review or monitor any website linked to or from the ParentSquare website and are not responsible for the content of any such linked website. Your linking to such website is at your own risk.
+### Additional Terms
 
-##### No Unlawful or Prohibited Use
+This Agreement applies to all users of our services, but there are special terms for you depending on what type of user you are.
 
-As a condition of your use of the ParentSquare website, you warrant to ParentSquare that you will not use the ParentSquare website for any purpose that is unlawful or prohibited by these terms, conditions, and notices. You may not use the ParentSquare website in any manner which could damage, disable, overburden, or impair the ParentSquare website or interfere with any other party's use and enjoyment of the ParentSquare website. You may not obtain or attempt to obtain any materials or information through any means not intentionally made available or provided for through the ParentSquare website.
+If you are younger than 18, you must get your parent or guardian to read and agree to this Agreement with you.
 
-##### Permission to send Notification
+If you are a parent, staff member or student, you will only join your School, classes and / or groups to which you have been added, or to which you belong, or those that are made available to everyone at your School to join.
 
-By agreeing to these Terms and Conditions, you give permission to ParentSquare to send you communication via email and / or text when messages are posted on ParentSquare website by users authorized by your school and also any marketing communication that ParentSquare may periodically send to you.
+If you are a parent or student you will only view posts for your School, grades, classes and groups you belong to. You may be allowed to post to the classes based upon your School’s discretion and to the groups you belong to upon the group administrator’s discretion.
 
-##### Use of Communication Services
+If you interact with the post, for instance, appreciate, publicly comment, sign up or RSVP, other users who have access to the post will be able to see you did so.
 
-The ParentSquare website may contain bulletin board services, chat areas, news groups, forums, communities, personal web pages, calendars, and / or other message or communication facilities designed to enable you to communicate with other users in your school (collectively, "Communication Services"), you agree to use the Communication Services only to post, send and receive messages and material that are proper and related to the particular Communication Service. By way of example, and not as a limitation, you agree that when using a Communication Service, you will not:
+If you are a staff member, you can view posts for your School, all grades, classes and public groups.
+
+If you are a designated ParentSquare Admin at your School, you can view posts for the School, all grades, classes and all groups.
+
+If you are a School Principal or District Admin, you can view direct messages at your School.
+
+If you are a designated ParentSquare Admin or a teacher at your School, you can invite users to join ParentSquare. It is your responsibility to maintain the accuracy of the contact information for these users and that you have permission from these users to invite them. You may not invite users that are not associated with your School.
+
+You may be required to register with ParentSquare by creating a password, to access the School in ParentSquare either via the website or the app. ParentSquare reserves the right to refuse registration of or to cancel a ParentSquare account in its sole discretion. You will be responsible for maintaining the confidentiality of your account and password.
+
+### Consent to Receive Periodic Notifications
+
+ParentSquare may send you communication arising from School Submissions (defined later) via email, text, voice call, and / or push notifications. If you do not wish to receive any notifications for School-related activities and notifications resulting from School Submissions, please contact your School directly.
+
+ParentSquare is not held responsible for any SMS notifications and charges you may receive in regards to your cell provider plan. You may permanently opt out of receiving SMS text messages in order to avoid certain charges by adjusting your notification settings from your accounts page. To request help in adjusting your notification settings, please contact [support@parentsquare.com](mailto:support@parentsquare.com). Note that you may still receive alerts via SMS, for example those regarding school closure, threats, etc. To opt out of School alerts, please contact your school directly.
+
+Apart from notifications for School related activities, ParentSquare may contact you with service-related announcements from time to time. By agreeing to these terms of use, you agree to receive and give permission to ParentSquare to send communication to you.
+
+### Use of ParentSquare Services
+
+Our services may contain news feed, chat areas, groups, forums, communities, personal information, calendars, and / or other message or communication facilities designed to enable you to collaborate with staff members or other users in your School (collectively, "Communication Services"), you agree to use the Communication Services only to post, send and receive messages and material that are proper and related to the particular Communication Service. By way of example, and not as a limitation, you agree that when using a Communication Service, you will not:
 
 * Defame, abuse, harass, stalk, threaten or otherwise violate the legal rights (such as rights of privacy and publicity) of others.
 * Publish, post, upload, distribute or disseminate any inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topic, name, material or information.
-* Users may not copy, reproduce, or otherwise share any text, photos, videos, contact or any other information or display on a public or password-protected ParentSquare page.
+* Copy, reproduce, or otherwise share any text, photos, videos, images, contacts or any other information on a public or password-protected ParentSquare page, without prior express written consent of the owner and in any way that violates anybody’s rights.
 * Upload files that contain software or other material protected by intellectual property laws (or by rights of privacy of publicity) unless you own or control the rights thereto or have received all necessary consents.
 * Upload files that contain viruses, corrupted files, or any other similar software or programs that may damage the operation of another's computer.
-* Advertise or offer to sell or buy any goods or services for any business purpose, unless such Communication Service specifically allows such messages.
-* Conduct or forward surveys, contests, pyramid schemes or chain letters.
+* Advertise or offer to sell or buy any goods or services for any business purpose, unless your School specifically allows such messages.
 * Download any file posted by another user of a Communication Service that you know, or reasonably should know, cannot be legally distributed in such manner.
 * Falsify or delete any author attributions, legal or other proper notices or proprietary designations or labels of the origin or source of software or other material contained in a file that is uploaded.
 * Restrict or inhibit any other user from using and enjoying the Communication Services.
@@ -56,40 +75,56 @@ The ParentSquare website may contain bulletin board services, chat areas, news g
 
 ParentSquare has no obligation to monitor the Communication Services. However, ParentSquare reserves the right to review materials posted to a Communication Service and to remove any materials in its sole discretion. ParentSquare reserves the right to terminate your access to any or all of the Communication Services at any time without notice for any reason whatsoever.
 
-ParentSquare reserves the right at all times to disclose any information as necessary to satisfy any applicable law, regulation, legal process or governmental request, or to edit, refuse to post or to remove any information or materials, in whole or in part, in ParentSquare's sole discretion.
-
-ParentSquare specifically disclaims any liability with regard to the Communication Services and any actions resulting from your participation in any Communication Service. Managers, hosts, principal or teachers are not authorized ParentSquare spokespersons, and their views do not necessarily reflect those of ParentSquare.
+ParentSquare specifically disclaims any liability with regard to the Communication Services and any actions resulting from your participation in any Communication Service. School members such as principal or teachers are not authorized ParentSquare spokespersons, and their views do not necessarily reflect those of ParentSquare.
 
 Materials uploaded to a Communication Service may be subject to posted limitations on usage, reproduction and / or dissemination. You are responsible for adhering to such limitations if you download the materials.
 
-##### Deactivating your ParentSquare Account
+### Materials Provided to ParentSquare or Posted at Any ParentSquare Website
 
-You can deactivate your account at any time by writing to your school's administrator or by writing to us at [unsubscribe@parentsquare.com](mailto:unsubscribe@parentsquare.com). Your name and contact information may be put in an Alumni Database for the school to use. Please let us know if you wish to be removed completely from the ParentSquare database.
+ParentSquare does not claim ownership of the materials you provide to ParentSquare (including feedback and suggestions) or post, upload, input or submit to any our services (collectively "Submissions"). You retain ownership of all of your Submissions. In order to provide you with the Services, ParentSquare needs to use your Submission in certain ways including display and send your Submissions to other users at your School. You hereby grant ParentSquare a nonexclusive, worldwide, royalty-free, perpetual, irrevocable, sublicensable and transferable (only to a successor) right and license to use your Submissions and to publish your name in connection with your Submissions within your School for purposes related to providing the Services.
 
-ParentSquare reserves the right to terminate (or suspend ) your access to ParentSquare services, for any reason, including your breach of these Terms and Conditions. ParentSquare has the sole right to decide whether you are in violation of any of the restrictions set forth in these Terms and Conditions.
+Because your Submissions may be viewed or accessed by other ParentSquare users at your School, you grant other ParentSquare users a non-exclusive, worldwide, royalty -free, perpetual, irrevocable, sublicensable right and license to access, view, edit, and use your Submissions as may be permitted through the functionality of our services (for example, when you send a message through ParentSquare, the recipients of your message will be able to save, copy, edit and store that message).
 
-##### Materials Provided to ParentSquare or Posted at Any ParentSquare Website
+ParentSquare is under no obligation to post or use any Submission you may provide and may remove any Submission at any time for any reason (including, but not limited to, if we receive claims or allegations from individuals, companies or authorities relating to that Submission or if ParentSquare is concerned that you may not have adhered to the foregoing restrictions) or no reason at all in ParentSquare's sole discretion.
 
-ParentSquare does not claim ownership of the materials you provide to ParentSquare (including feedback and suggestions) or post, upload, input or submit to any ParentSquare website or its associated services (collectively "Submissions"). However, by posting, uploading, inputting, providing or submitting your Submission you are granting ParentSquare, its affiliated companies and necessary sublicensees permission to use your Submission in connection with the operation of their Internet businesses including, without limitation, the rights to: copy, distribute, transmit, publicly display, publicly perform, reproduce, edit, translate and reformat your Submission; and to publish your name in connection with your Submission.
+By posting, uploading, inputting, providing or submitting your Submission you warrant and represent that you own or otherwise control all of the rights to your Submission as described in this section including, without limitation, all the rights necessary for you to post the Submissions.
 
-No compensation will be paid with respect to the use of your Submission, as provided herein. ParentSquare is under no obligation to post or use any Submission you may provide and may remove any Submission at any time in ParentSquare's sole discretion.
+All information publicly posted or privately transmitted through our services is the sole responsibility of the person from which such content originated and that ParentSquare will not be liable for any errors or omissions in any content. ParentSquare cannot guarantee the identity of any other users you may interact with in the course of using the Services. Additionally, ParentSquare cannot guarantee the authenticity of any information which users may provide about themselves. You acknowledge that all content accessed by you while using ParentSquare is at your own risk and you will be solely responsible for any resulting damage or loss.
 
-By posting, uploading, inputting, providing or submitting your Submission you warrant and represent that you own or otherwise control all of the rights to your Submission as described in this section including, without limitation, all the rights necessary for you to provide, post, upload, input or submit the Submissions.
+### Links
 
-##### Warranty Disclaimer
+ParentSquare does not review or monitor any website linked to or from the ParentSquare website and is not responsible for the content of any such linked website. Your linking to such website is at your own risk.
 
-Your use of the ParentSquare website is at your own risk. The ParentSquare website contains information, facts, and opinions from various individuals and organizations. Neither ParentSquare nor the schools using it, ParentSquare subsidiaries, affiliates, agents, and representatives endorse or are responsible for the accuracy or reliability of any opinion, advice, or statement on the ParentSquare website.
+### Electronic Signatures
 
-##### Privacy
+ParentSquare provides functionality that allows users to provide electronic signatures as an intended substitute for a physical signature. By using the Electronic Signature function, you agree to transaction business electronically in place of using paper documents and wet-ink signatures. You are responsible for ensuring that your contact information is current. You understand that by using an Electronic Signature, you are expressing your acceptance of the terms of use contained within the post you are providing signature for. You should read any such posts carefully before apply your Electronic Signature. You agree that you are solely responsible for any such posts to which you apply your Electronic Signature and for any consequences and legal obligations arising therefrom.
 
-Your use of the ParentSquare website is subject to our [Privacy Policy](https://www.parentsquare.com/about/privacy)
+While ParentSquare may provide options for supporting identity verification, ParentSquare does not have the capability to verify the identity or the authority of a signatory; you are solely responsible for verifying the identity of each signatory. ParentSquare does not certify the validity, completeness, or enforceability of any post that requires Signature.
 
-##### Disclosure
+### No Unlawful or Prohibited Use
 
-ParentSquare reserves the right at all times to disclose any information as necessary to satisfy any applicable law, regulation, legal process or governmental request, or to edit, refuse to post or to remove any information or materials, in whole or in part, in ParentSquare's sole discretion.
+As a condition of your use of our services, you warrant to ParentSquare that you will not use our services for any purpose that is unlawful or prohibited by these terms of use. You may not use our services in any manner which could damage, disable, overburden, or impair our services or systems, or interfere with any other party's use and enjoyment of our services.
 
-Questions or comments regarding the ParentSquare website and the information contained in the ParentSquare website should be directed to [webmaster@parentsquare.com](mailto:webmaster@parentsquare.com). Any communication or material transmitted to us via the ParentSquare website or e-mail is transmitted on a non-confidential basis.
+ParentSquare reserves the right to investigate use in order to determine whether or not a violation of the above conditions have occurred or in order to comply with any applicable law, regulation, legal process or governmental request. In the case that a violation has occurred, ParentSquare may revoke your ability to use our services or terminate your account in order to maintain the confidentiality, safety, and quality of our services.
 
-##### Copyrights and Trademarks
+### Availability
 
-The content included on the Website, including but not limited to text, software, photographs, graphics, illustrations and artwork, video, music and sound, and names, logos, trademarks and service marks, are the property of ParentSquare or its licensors or suppliers and are protected by copyright, trademark, and other laws. You agree not to modify, reproduce, retransmit, distribute, disseminate, sell, publish, broadcast, or circulate any such material for any purpose other than personal, non-commercial use without our written permission. To request such permission, send email to [webmaster@parentsquare.com](mailto:webmaster@parentsquare.com) including your name, address, and a description of the purpose of your intended distribution and the information you would like to distribute.
+Our services are available worldwide to anyone with Internet access. However, our services may not be continuously available due to maintenance or repairs to computer problems or crashes, disruption in Internet service or other unforeseen circumstances, and we disclaim any liability for non-availability.
+
+### Warranty Disclaimer
+
+Your use of our services and the ParentSquare website is at your own risk. The ParentSquare website contains information, facts, and opinions from various individuals and organizations. Neither ParentSquare nor the schools using it, ParentSquare affiliates, agents, and representatives endorse or are responsible for the accuracy or reliability of any opinion, advice, or statement on the ParentSquare website.
+
+### Limitation of Liability
+
+NEITHER PARENTSQUARE NOR ANY OF THE SCHOOLS USING OUR SERVICES OR ANY OF PARENTSQUARE SUBSIDIARIES, DIVISIONS, AFFILIATES, AGENTS, REPRESENTATIVES, OR LICENSORS SHALL BE LIABLE TO YOU OR ANYONE ELSE FOR ANY LOSS OR INJURY OR ANY DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, PUNITIVE, OR SIMILAR DAMAGES ARISING OUT OF YOUR ACCESS OR USE OF, , OR FROM MISSING REMINDERS, OR YOUR INABILITY TO ACCESS OR USE, OUR SERVICES OR ANY MATERIALS, OPINIONS, OR RECOMMENDATIONS OF THIRD PARTIES ON OUR SERVICES, OR FOR ANY DATA LOSS IN OUR SERVICES. ALL INFORMATION, SOFTWARE, PRODUCTS, SERVICES AND RELATED GRAPHICS ARE PROVIDED "AS IS" WITHOUT WARRANTY OR CONDITION OF ANY KIND. PARENTSQUARE AND / OR YOUR SCHOOL HEREBY DISCLAIM ALL WARRANTIES AND CONDITIONS WITH REGARD TO THIS INFORMATION, SOFTWARE, PRODUCTS, SERVICES AND RELATED GRAPHICS, INCLUDING ALL IMPLIED WARRANTIES OR CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT.
+
+### Indemnity
+
+You will indemnify and hold ParentSquare, its parents, subsidiaries, affiliates, officers, and employees harmless (including, without limitation, from all damages, liabilities, settlements, costs and attorneys’ fees) from any claim or demand made by any third party due to or arising out of your violation of these terms of use.
+
+### Deactivating your ParentSquare Account
+
+You can deactivate your account at any time by writing to your School's administrator or by writing to us at [unsubscribe@parentsquare.com](mailto:unsubscribe@parentsquare.com). Your name and contact information may be put in an Alumni Database for the School to use. Please let us know if you wish to be removed completely from the ParentSquare database.
+
+ParentSquare reserves the right to terminate (or suspend) your access to our services, for any reason, including your breach of these terms of use. ParentSquare has the sole right to decide whether you are in violation of any of the restrictions set forth in these terms of use.
