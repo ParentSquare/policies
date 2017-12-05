@@ -82,6 +82,8 @@ Access to the School’s ParentSquare website and app is restricted to parents a
 
 Pictures and files attached to posts on ParentSquare are never sent via email or text and are accessible to users only when logged in. This prevents picture access by users who receive forwarded emails from users at Schools. Parents are responsible for maintaining the security of their password.
 
+Notwithstanding the foregoing, your School may choose to share some ParentSquare posts and associated pictures on social websites, such as Twitter and Facebook.  ParentSquare will require your School to confirm that it has prior permission from parents before doing so.  Sharing posts and pictures on social website will make the posts and pictures viewable by users outside of ParentSquare, and ParentSquare’s privacy policy will no longer apply to those posts and pictures.  All such posts will be clearly marked so ParentSquare users can know that those posts are shared via social networks.
+
 Your contact information, i.e., your email, phone and address may be made available to other registered parents at your School as part of an online School Directory according to your School's discretion. This information is not shared outside of the School or with any third parties. By default, your email address is visible on your profile page to other parents at your School but not your phone or address. You have the option to adjust your settings to keep all your contact information (email, phone and address) hidden from other parents at your School. Your contact information will be visible to registered staff members at your School.
 
 ##### No Disclosure To Third Parties
@@ -116,7 +118,7 @@ You may review, update, and correct the information in your account by logging i
 
 ##### Deactivating Your Account
 
-If your child graduates from the School or leaves the School and you are no longer associated with the School, the School will deactivate your account. When an account is deactivated, it will be archived but no user will be able to see it. If the School chooses to maintain an alumni database, ParentSquare may retain that student's name, parents’ / guardians’ name, email, cell phone and address information as an archived account.
+If your child graduates from the School or leaves the School and you are no longer associated with the School, the School will deactivate your account. When an account is deactivated, it will be archived but no user will be able to see it. If the School chooses to maintain an alumni database, ParentSquare may retain that student's name, student's grade level, parents’ / guardians’ name, email, cell phone and address information as an archived account.
 
 ##### Deleting Your Account
 
