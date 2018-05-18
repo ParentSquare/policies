@@ -10,7 +10,9 @@ ParentSquare understands that privacy is extremely important to users of our ser
 
 ### Changes to Our Privacy Policy
 
-ParentSquare reserves the right to change this privacy policy. Any changes to this privacy policy will be posted to this page as soon as reasonably possible and a notice will be put up on our website. Use of the ParentSquare website constitutes consent to any privacy policy then in effect. Please make sure that you read the ParentSquare [Terms of Use](https://www.parentsquare.com/about/terms) to understand additional terms and conditions that apply to the use of our Web site. If you have any questions or comments concerning our privacy policy, please contact us at [support@parentsquare.com](mailto:support@parentsquare.com).
+ParentSquare reserves the right to change this privacy policy. Any changes to this privacy policy will be posted to this page and a notice will be put up on our website and other places we deem appropriate such as our blog. In case of material changes to how we use your personal information, we will notify you prior to the change becoming effective, by email, by means of notice on our home page, and by email to your parents in case you are under 18, in order to obtain consent for the new uses of your personal information if required.
+
+Please make sure that you read the ParentSquare [Terms of Use](https://www.parentsquare.com/about/terms) to understand additional terms and conditions that apply to the use of our Web site. If you have any questions or comments concerning our privacy policy, please contact us at [support@parentsquare.com](mailto:support@parentsquare.com).
 
 ### Information Collection, Use and Protection
 
@@ -22,7 +24,7 @@ We collect two types of information: personal information your School knowingly 
 
 ##### Information Your School Provides to Us
 
-Student and user data is provided and controlled by your School. When your School chooses to use ParentSquare, the School provides us a limited amount of personal information. For a student, the School provided personal information includes student name, ID, gender, grade level, enrolled courses, other enrolled groups and extracurricular activities, and information about student’s parents / contacts: their name, address, email, phone number and communication language. For users other than parents / student contacts, such as staff members, the information may include their title at the School and courses taught at the School. The School may also choose to provide additional student information such as their English language learning status, enrollment in free and reduced lunch program, attendance records, lunch balances, bus routes, grades and assignments if the School is using the corresponding ParentSquare functionality.
+Student and user data is provided and controlled by your School. When your School chooses to use ParentSquare, the School provides us personal information about the student and their parents and guardians. For a student, the School provided personal information includes student name, ID, gender, grade level, enrolled courses, other enrolled groups and extracurricular activities, and information about student’s parents/ contacts: their name, relationship to student, address, email, phone number and communication language. For users other than parents/ student contacts, such as staff members, the information may include their title at the School and courses taught at the School. The School may also choose to provide additional student information such as their English language learning status, enrollment in free and reduced lunch program, attendance records, lunch balances, bus routes, grades and assignments if the School is using the corresponding ParentSquare functionality.
 
 ParentSquare complies with Family Educational Rights and Privacy Act (“FERPA") and all other applicable confidentiality and privacy laws and rules, and requires its employees, consultants, and subcontractors to similarly comply.
 
@@ -36,7 +38,7 @@ If you have questions about modifying or deleting personal information of a stud
 
 ##### Information You Provide to Us
 
-You may choose to provide additional information about yourself in your user profile, such as your profession, talent, interests and abilities. All information you provide to us may be made accessible to other users in your School. This information is not shared with users outside of your School, but may be made available to your School's district office should they request it.
+You may choose to provide additional information about yourself in your user profile, such as your profession, talent, interests and abilities, or in the course of using ParentSquare, such as messaging and posts. All information you provide to us may be made accessible to other users in your School. This information is not shared with users outside of your School, but may be made available to your School's district office should they request it.
 
 ##### Information We Collect when You Interact With ParentSquare
 
@@ -60,7 +62,7 @@ We may send one or more cookies to be stored on your computer in order to person
 
 #### 2. How We Use Information
 
-Your privacy and your child's privacy is extremely important to us. The student data we collect is used for educational purposes at the discretion of your School only. We use the information we collect to provide a safe, efficient, and customized experience for our users. Here are some of ways we do that:
+Your privacy and your child's privacy is extremely important to us. The student data we collect is used for communication and educational purposes at the discretion of your School only. We use the information we collect to provide a safe, efficient, and customized experience for our users. Here are some of ways we do that:
 
 ##### To Manage the Service
 
@@ -78,9 +80,7 @@ We use the information we collect to report usage levels to your School. This al
 
 ##### What Can Other Users in ParentSquare See
 
-Access to the School’s ParentSquare website and app is restricted to parents and staff at your School, and other users that the School may deem appropriate, e.g., Board Members. Parents can only view posts addressed to the entire School and to any groups or classes they or their child belongs to. Parents do not see posts for classes and private groups they do not belong to.
-
-Pictures and files attached to posts on ParentSquare are never sent via email or text and are accessible to users only when logged in. This prevents picture access by users who receive forwarded emails from users at Schools. Parents are responsible for maintaining the security of their password.
+Access to the School’s ParentSquare website and app is restricted to parents and staff at your School, and other users that the School may deem appropriate, e.g., Board Members. Parents can only view posts addressed to the entire School and to any groups or classes they or their child belongs to. Parents do not see posts for classes and private groups they do not belong to. Parents are responsible for maintaining the security of their password.
 
 Notwithstanding the foregoing, your School may choose to share some ParentSquare posts and associated pictures on social websites, such as Twitter and Facebook.  ParentSquare will require your School to confirm that it has prior permission from parents before doing so.  Sharing posts and pictures on social website will make the posts and pictures viewable by users outside of ParentSquare, and ParentSquare’s privacy policy will no longer apply to those posts and pictures.  All such posts will be clearly marked so ParentSquare users can know that those posts are shared via social networks.
 
@@ -89,6 +89,17 @@ Your contact information, i.e., your email, phone and address may be made availa
 ##### No Disclosure To Third Parties
 
 ParentSquare uses the data received from the School for the sole purpose of delivering products and services to the School. We do not rent, trade, or sell or otherwise distribute your information to any third parties and will only disclose information when allowed by FERPA and required a) by applicable laws or government orders or b) to maintain and operate our service or c) when authorized by the School.
+
+We work with a number of third party service providers and contractors to maintain and operate our service. For instance, we use third parties
+
+* For secure credit card transaction processing for supporting payments in ParentSquare
+* To provide customer support communication to our users
+* To analyze use of our website and app
+* For our blog and to facilitate social sharing on our blog
+* To send emails, texts and phone calls
+* For hosting our services and databases
+
+Additional, we use our commercially reasonable efforts to cause our service providers and contractors to adhere to confidentiality and security obligations that are consistent with this Privacy Policy and our Terms of Use.
 
 ##### No Advertising
 
@@ -112,18 +123,39 @@ ParentSquare and all of our data is hosted within the United States. Please note
 
 #### 5. Choices About Your Information
 
-##### Managing Your Profile
+##### Managing Your Account
 
 You may review, update, and correct the information in your account by logging into ParentSquare. Your School may not allow you to update your account information directly in ParentSquare. In such event, an alternate School contact or instructions will be provided for you to update your ParentSquare contact information. You are able to adjust your notification settings within ParentSquare so that you receive instant text, instant email, or digest email, or you may opt out of ParentSquare communications and receive no notifications at all. If you choose not to receive notifications from ParentSquare this will not stop you from receiving emergency notifications, for example those regarding school closure, threats, etc.
 
-##### Deactivating Your Account
-
-If your child graduates from the School or leaves the School and you are no longer associated with the School, the School will deactivate your account. When an account is deactivated, it will be archived but no user will be able to see it. If the School chooses to maintain an alumni database, ParentSquare may retain that student's name, student's grade level, parents’ / guardians’ name, email, cell phone and address information as an archived account.
-
 ##### Deleting Your Account
 
-A user account may only be deleted by the School. When an account is deleted, it is permanently deleted from ParentSquare. If you wish to delete your account, please send an email to your School representative. Removed and deleted information may persist in backup copies for up to ninety (90) days, but will not be available to others.
+If you or your child graduates from the School or leaves the School and you are no longer associated with the School, the School will delete your account, i.e., you will no longer be able to access your information on ParentSquare and no other ParentSquare user will be able to access your personal information either, including your School. In case of accidental deletion, we will be able to restore the account on request if request is made within thirty (30) days.
+
+If you cease to agree with ParentSquare's terms of use and privacy policy at some point in the future or if you no longer desire our service, please unsubscribe directly by clicking the link in the ParentSquare email sent by your School or contact the School directly to delete your account. You may also contact us at [support@parentsquare.com](mailto:support@parentsquare.com). We will get in touch with your School to honor your request and respond within a reasonable time not exceeding thirty (30) days.
+
+We will retain your information for as long as your account is active or as needed to provide services to you and your School. We will also retain and use your information as necessary in order to comply with our legal obligations, resolve disputes, prevent abuse, and enforce our agreements. 
+
+### European Union Residents
+
+Our computer systems are currently based in the United States, so your personal data entered at our Site or related to your use of our services (i) will not be processed in the European Economic Area (EEA) and (ii) will be processed by our service providers or us in the United States and other non-EEA countries. By using ParentSquare, you (a) agree to and accept the terms stated in this Privacy Policy and (b) expressly consent to the processing of your personal data on equipment and by service providers outside the European Economic Area.  If you reside in the European Union and we do not seek your explicit consent to process your personal data, we are relying on the legitimate commercial interest of our company in providing the services to you and other customers and the need to process your personal data as previously described in order to accomplish that legitimate interest. You also have the right to withdraw consent and request that we halt processing of your personal data at any time. This withdrawal of consent does not invalidate the consent-based processing that occurred prior to withdrawal.
+
+As an EU resident, you also have the following rights under the General Data Protection Regulation:
+
+* Right of access to personal data
+* Right to rectification of personal data held where it is incorrect or incomplete
+* Right of erasure of personal data (“right to be forgotten”) if certain grounds are met
+* Right to restrict/suspend processing of personal data
+* Right to complain to a supervisory authority
+* Right to object to processing (if processing is based on legitimate interests)
+* Right to object to processing of personal data for direct marketing purposes
+* Right to receive your personal data in a standard electronic format (data portability)
+
+You may withdraw this consent or exercise any of the foregoing rights applicable to you by contacting the Privacy Officer at the address below or notifying us at [support@parentsquare.com](mailto:support@parentsquare.com)
 
 ### How to Contact Us
 
-If you have questions or concerns pertaining to your information, your registration, your account, or unsubscribing please contact your School directly. Otherwise if you have questions about this privacy policy or ParentSquare, you may contact us at [support@parentsquare.com](mailto:support@parentsquare.com).
+If you have questions or concerns pertaining to your information, your registration, your account, or unsubscribing please contact your School directly. Otherwise if you have questions about this privacy policy or ParentSquare, you may contact us at [support@parentsquare.com](mailto:support@parentsquare.com). You may also contact us by phone and postal mail at:
+
+888-496-3168  
+924 Anacapa St, Suite 3R,  
+Santa Barbara, CA 93101
